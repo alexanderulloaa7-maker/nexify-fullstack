@@ -1,0 +1,1 @@
+import { BookingWidget } from '@/components/BookingWidget'; export default function D(){return (<main className='mx-auto max-w-3xl px-4 py-6'><h1 className='text-xl font-semibold mb-4'>Booking Demo (Deposit)</h1><BookingWidget orgId='demo-org' /></main>);}

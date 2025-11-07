@@ -1,0 +1,1 @@
+import { SupportChat } from '@/components/SupportChat'; export default function P(){return (<main className='mx-auto max-w-3xl px-4 py-6 space-y-4'><h1 className='text-xl font-semibold'>Customer Support Chat</h1><p className='text-white/70 text-sm'>Ask about services, hours, pricing, policies.</p><SupportChat orgId='demo-org' /></main>);}

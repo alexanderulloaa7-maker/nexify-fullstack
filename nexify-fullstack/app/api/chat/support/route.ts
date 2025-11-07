@@ -1,0 +1,1 @@
+import { NextResponse } from 'next/server'; export async function POST(req:Request){ const { messages } = await req.json(); const last = messages?.[messages.length-1]?.content || ''; const reply = `Support (demo): I got your message: "${last}".`; return NextResponse.json({ reply }); }

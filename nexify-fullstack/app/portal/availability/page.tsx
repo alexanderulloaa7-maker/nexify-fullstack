@@ -1,0 +1,1 @@
+export default function A(){return (<main className='mx-auto max-w-3xl px-4 py-6 space-y-3'><h1 className='text-xl font-semibold'>Availability</h1><div className='rounded-xl border border-surface-outline p-4 bg-surface-raised'><p className='text-white/60 text-sm'>Weekly hours template. Generate timeslots later.</p></div></main>);}

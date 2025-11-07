@@ -1,0 +1,1 @@
+export default function S(){return (<main className='mx-auto max-w-3xl px-4 py-6 space-y-3'><h1 className='text-xl font-semibold'>Site Theme</h1><div className='rounded-xl border border-surface-outline p-4 bg-surface-raised'><p className='text-white/60 text-sm'>Upload logo, choose colors, publish to subdomain (todo).</p></div></main>);}
